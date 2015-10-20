@@ -1,4 +1,4 @@
-package com.lin.project.Ledis;
+package com.lin.project.redis;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
